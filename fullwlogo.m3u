@@ -14681,6 +14681,8 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1702
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3828793616b62b9cc5834c
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/24-kitchen-rs.png" group-title="Turkey",24 KITCHEN HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/42853502477bb17264f322
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Turkey",24 RAW .b
+https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/536029186d3e964e7e9db
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Turkey",24 TV .c
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/38229012391e140a7f75ba
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Turkey",360 .c
@@ -14701,8 +14703,6 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1064
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1771137539fa2adff8ebd5
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="Turkey",4K TR: A2 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/201905527745e40d41f657
-#EXTINF:-1  tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="Turkey",4K TR: AKİT TV HD .b 
-https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/344558568784e9a5583953
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Turkey",4K TR: ATV HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2325261286cc81b01cf95d
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/baby-tv-nl.png" group-title="Turkey",4K TR: BABYTV .b
@@ -14727,12 +14727,8 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6492
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/869937351ec185ded43b6
 #EXTINF:-1  tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="Turkey",4K TR: DREAM TÜRK .b 
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/42666830256873dd1e7fac
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/duck-tv-rs.png" group-title="Turkey",4K TR: DUCK TV HD .b
-https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1709129189f694bdd416ac
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qF1ms7G4/Ekol-TV-Logosu.png" group-title="Turkey",4K TR: EKOL TV .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2706210049a80b69a6323c
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/english-club-tv-pl.png" group-title="Turkey",4K TR: ENGLISH CLUB TV .b
-https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/925055356337611dcda8b
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/lithuania/epic-drama-lt.png" group-title="Turkey",4K TR: EPIC DRAMA .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6782616930c5115ad7507
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/eurosport-1-uk.png" group-title="Turkey",4K TR: EUROSPORT 1 HD .b
@@ -14771,7 +14767,7 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7003
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/10783553250ea885deefe4
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/national-geographic-wild-hd-uk.png" group-title="Turkey",4K TR: NATIONAL GEOGRAPHIC WILD HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1324166169d75d5197aa7
-#EXTINF:-1  tvg-logo="https://i.ibb.co/MxdcMQ0Q/cosmo-en-logo-1.png" group-title="Turkey",4K TR: COSMO EN .b
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MxdcMQ0Q/cosmo-en-logo-1.png" group-title="Turkey",4K TR: COSMO EN - NBA TV .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5455481338d50b246e682
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Turkey",4K TR: NICKTOONS .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/988691374172058ef3d50
