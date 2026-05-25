@@ -14771,7 +14771,7 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7003
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/10783553250ea885deefe4
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/hd/national-geographic-wild-hd-uk.png" group-title="Turkey",4K TR: NATIONAL GEOGRAPHIC WILD HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1324166169d75d5197aa7
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Pv7pLmMc/cosmo-en-logo.png" group-title="Turkey",4K TR: COSMO EN .b
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MxdcMQ0Q/cosmo-en-logo-1.png" group-title="Turkey",4K TR: COSMO EN .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5455481338d50b246e682
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Turkey",4K TR: NICKTOONS .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/988691374172058ef3d50
@@ -14789,11 +14789,11 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1526
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/130796566204d6973e458e
 #EXTINF:-1  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="Turkey",4K TR: SİNEMA 1002 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1076643856c5c88735393f
-#EXTINF:-1  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile-300x33.png" group-title="Turkey",4K TR: SİNEMA AİLE 2 HD .b
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile2-tr.png" group-title="Turkey",4K TR: SİNEMA AİLE 2 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/30005947634e6b4664fb0b
 #EXTINF:-1  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile-300x217.png" group-title="Turkey",4K TR: SİNEMA AİLE HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/698495811d90e484ca252
-#EXTINF:-1  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2-300x26.png" group-title="Turkey",4K TR: SİNEMA AKSİYON 2 HD .b
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="Turkey",4K TR: SİNEMA AKSİYON 2 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/344071158009740df4a222
 #EXTINF:-1  tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed-300x217.png" group-title="Turkey",4K TR: SİNEMA KOMEDİ HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4407749499b6c2037cd18
@@ -15853,6 +15853,8 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1993
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2368422760ba45ce579307
 #EXTINF:-1  group-title="Turkey",ILAHI COCUK TV .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/40159240758445efc955c
+#EXTINF:-1  tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="Turkey",İlke TV
+https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3650641237f3a2bcd94921
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/investigation-discovery-ca.png" group-title="Turkey",INVESTIGATION DISCOVERY .c
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1372455233dfff5072538c
 #EXTINF:-1  group-title="Turkey",ISVIÇRE VIZYON TV .b 
@@ -16799,8 +16801,6 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5500
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21143354242548e3a116d2
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Turkey",TRT SPOR .s
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/27814292671faae74c3b20
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Turkey",TRT SPOR 2 HD .s
-https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3650641237f3a2bcd94921
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Turkey",TRT SPOR FHD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2952828245a3c08be2c885
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Turkey",TRT SPOR HD .b
@@ -17315,8 +17315,6 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3653
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21143354242548e3a116d2
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Türkiye Spor",TRT SPOR .s
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/27814292671faae74c3b20
-#EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Türkiye Spor",TRT SPOR 2 HD .s
-https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3650641237f3a2bcd94921
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Türkiye Spor",TRT SPOR FHD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2952828245a3c08be2c885
 #EXTINF:-1  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="Türkiye Spor",TRT SPOR HD .b
