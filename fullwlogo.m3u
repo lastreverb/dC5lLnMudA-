@@ -14711,6 +14711,38 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1651
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1893598000587432322459
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Turkey",360 RAW .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/17026451919e48523c30db
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1 - 2K
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="Turkey",TRT 2 - 2K
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVfo8Ab.png" group-title="Turkey",TRT Haber - 2K
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="Turkey",TRT Spor - 2K
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="Turkey",TRT Spor 2 - 2K
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLFmD6d.png" group-title="Turkey",TRT Çocuk - 2K
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIVFCEd.png" group-title="Turkey",TRT Müzik - 2K
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGO87pe.png" group-title="Turkey",TRT Belgesel - 2K
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="Turkey",TRT Avaz - 2K
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BpymfB.png" group-title="Turkey",TRT Kurdî - 2K
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="Turkey",TRT Arabi - 2K
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="Turkey",TRT World - 2K
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSTOQNw.png" group-title="Turkey",TRT Türk - 2K
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDvZfk8.png" group-title="Turkey",TRT EBA İlkokul - 2K
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="Turkey",TRT EBA Ortaokul - 2K
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IebUZx1.png" group-title="Turkey",TRT EBA Lise - 2K
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Turkey",4K TR: 24 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/19981681222fca08eb4e83
 #EXTINF:-1  tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Turkey",4K TR: 360 HD .b
@@ -14843,6 +14875,7 @@ https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1917
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/190715470454a282dd6577
 #EXTINF:-1  tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="Turkey",4K TR: TJK TV .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/27949369132f08a592203d
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Turkey",4K TR: TRT 1 HD .b
 https://vaybu.reverby-7c1.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="Turkey",4K TR: TRT 2 HD .b
